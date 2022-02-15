@@ -1,6 +1,6 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-import Checkbox from "./Checkbox/Checkbox";
+import Checkbox from 'net-number/src/components/Checkbox/Checkbox';
 
 
 
