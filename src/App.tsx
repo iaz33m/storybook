@@ -3,12 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 // import Checkbox from "./stories/Checkbox/Checkbox";
 // import Test from 'net-number/src/components/test.jsx';
-import Checkbox from 'net-number/src/components/Checkbox/Checkbox';
+import Grid from 'net-number2/src/components/Grid/Grid';
+import Test from './test'
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Checkbox name={'check me'}/>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
@@ -22,6 +22,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Test/>
     </div>
   );
 }

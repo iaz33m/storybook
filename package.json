@@ -37,6 +37,7 @@
     "jest-watch-typeahead": "^1.0.0",
     "mini-css-extract-plugin": "^2.4.5",
     "net-number": "git+https://abubakar_smash:8RBpGaDHaRyxmtNR4QVm@bitbucket.org/smashcloudmedia/net-number-components.git",
+    "net-number2": "git+https://abubakar_smash:8RBpGaDHaRyxmtNR4QVm@bitbucket.org/smashcloudmedia/net-number-components.git#inhouse-master",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^6.2.1",
